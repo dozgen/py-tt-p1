@@ -1,14 +1,9 @@
-
 """
 Python Development Techdegree
 Project 1 - The Number Guessing Game
 --------------------------------
 """
-
 import random
-
-
-
 
 def start_game():
     attempt = 1 
@@ -58,4 +53,3 @@ Welcome to the Number Guessing Game 🤔!
             print ("Thanks for playing the game, see you next time!")
             
 start_game()
-
